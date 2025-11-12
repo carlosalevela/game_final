@@ -1,0 +1,234 @@
+[
+    {
+        "name": "rock_19_lev1_lev2_lev3",
+        "x": 45.90074920654297,
+        "y": 3.0191805362701416,
+        "z": -47.18536376953125,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bigrock3_lev1_lev2_lev3",
+        "x": 22.307937622070312,
+        "y": 4.057489395141602,
+        "z": -44.738075256347656,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "rock_14_lev1_lev2_lev3",
+        "x": -44.82685470581055,
+        "y": 0.3921384811401367,
+        "z": -26.695261001586914,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "baked_lev1_lev2_lev3",
+        "x": 41.03361511230469,
+        "y": 0.3423145115375519,
+        "z": 41.3490104675293,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "rock_11.001_lev1_lev2_lev3",
+        "x": 47.3577880859375,
+        "y": 1.0429036617279053,
+        "z": 45.53399658203125,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "obj1_lev1_lev2_lev3",
+        "x": -63.478294372558594,
+        "y": 0.6953482627868652,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "snailhat_m.001_lev1_lev2_lev3",
+        "x": -50.18806838989258,
+        "y": -25.30113410949707,
+        "z": 28.14192771911621,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "shooting_ext_lev1_lev2_lev3",
+        "x": 16.365079879760742,
+        "y": -0.9340054988861084,
+        "z": 47.063087463378906,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_ball_lev2_lev3",
+        "x": 54.514095306396484,
+        "y": -54.84858703613281,
+        "z": 85.43890380859375,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_ballup_lev2_lev3",
+        "x": 54.514095306396484,
+        "y": -54.84858703613281,
+        "z": 85.43890380859375,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_base_lev1_lev2_lev3",
+        "x": -12.586688995361328,
+        "y": 0.990391731262207,
+        "z": -12.524871826171875,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_base.001_lev1_lev2_lev3",
+        "x": -20.449092864990234,
+        "y": 0.6632968187332153,
+        "z": -32.58556365966797,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_base.002_lev1_lev2_lev3",
+        "x": 12.210721969604492,
+        "y": 0.06641906499862671,
+        "z": -31.862194061279297,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_base.003_lev1_lev2_lev3",
+        "x": -34.02595901489258,
+        "y": 0.9022718667984009,
+        "z": 4.836126327514648,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_base.004_lev1_lev2_lev3",
+        "x": -29.63431167602539,
+        "y": 0.07750546932220459,
+        "z": 48.9862174987793,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "bdpremierballmodel_base.005_lev1_lev2_lev3",
+        "x": 3.970090866088867,
+        "y": 0.1934850811958313,
+        "z": 27.303712844848633,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "beveled_cuboid_lev1_lev2_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "beveled_cuboid_selection_lev1_lev2_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "beveled_cuboid.001_lev1_lev2_lev3",
+        "x": 21.88885498046875,
+        "y": 0.3499336242675781,
+        "z": 14.196996688842773,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "beveled_cuboid.002_lev1_lev2_lev3",
+        "x": 23.74163818359375,
+        "y": 0.3448309898376465,
+        "z": -20.2170467376709,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "beveled_cuboid.003_lev1_lev2_lev3",
+        "x": -17.662357330322266,
+        "y": 0.6986470222473145,
+        "z": 26.607044219970703,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "body_lod2_lev2_lev3",
+        "x": -39.36994552612305,
+        "y": 0.0,
+        "z": -50.21134948730469,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "body_lod1_lev2_lev3",
+        "x": -39.36994552612305,
+        "y": 0.0,
+        "z": -50.21134948730469,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "coin_1_lev2_lev3",
+        "x": 24.878337860107422,
+        "y": 1.6976155042648315,
+        "z": -9.57256031036377,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "coin_1.001_lev2_lev3",
+        "x": -0.3269824981689453,
+        "y": 1.3861757516860962,
+        "z": -36.42242431640625,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "coin_1.002_lev2_lev3",
+        "x": -2.4881277084350586,
+        "y": 1.3926719427108765,
+        "z": 16.745357513427734,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "coin_1.003_lev2_lev3",
+        "x": -5.523149490356445,
+        "y": 1.4530762434005737,
+        "z": 40.85572052001953,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "coin_1.004_lev2_lev3",
+        "x": 39.03468704223633,
+        "y": 2.0923516750335693,
+        "z": 13.73040771484375,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "coin_1.005_lev2_lev3",
+        "x": 38.87153244018555,
+        "y": 1.4921064376831055,
+        "z": -23.503986358642578,
+        "level": 3,
+        "role": "default"
+    }
+]
